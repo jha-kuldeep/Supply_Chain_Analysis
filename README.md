@@ -95,8 +95,9 @@ A Tuned Random Forest Classifier achieved:
 
 | Metric   | Score |
 | -------- | ----- |
-| Accuracy | 86%   |
-| F1 Score | 85%   |
+| Accuracy | 74%   |
+| F1 Score | 77%   |
+| Precision | 79%   |
 
 The model predicts high-risk deliveries before shipment occurs.
 
