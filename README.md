@@ -201,7 +201,7 @@ The model predicts high-risk deliveries before shipment occurs.
 
 | Model               | Accuracy | F1 Score |
 | ------------------- | -------- | -------- |
-| Tuned Random Forest | 86%      | 85%      |
+| Tuned Random Forest | 74%      | 77%      |
 
 ---
 
