@@ -253,8 +253,7 @@ Preventing just **10% of delayed orders** could potentially secure:
 
 # 📷 Dashboard Preview
 
-```markdown id="t8v1ya"
-![Dashboard Screenshot](Dashboard_Snap.png)
+https://github.com/jha-kuldeep/Supply_Chain_Analysis/blob/main/Dashboard_Snap.png
 ```
 
 ---
