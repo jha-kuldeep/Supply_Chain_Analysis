@@ -253,10 +253,8 @@ Preventing just **10% of delayed orders** could potentially secure:
 
 # 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
-
 ```markdown id="t8v1ya"
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Dashboard_Snap.png)
 ```
 
 ---
